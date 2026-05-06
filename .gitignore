@@ -53,3 +53,21 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Added for CubeIDe projects
+# Build output
+Debug/
+Release/
+
+# IDE workspace metadata
+.metadata/
+.settings/
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
