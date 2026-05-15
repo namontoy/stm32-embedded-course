@@ -58,6 +58,7 @@ dkms.conf
 # Build output
 Debug/
 Release/
+*.launch
 
 # IDE workspace metadata
 .metadata/
