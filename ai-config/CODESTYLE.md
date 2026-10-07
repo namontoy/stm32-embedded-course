@@ -4,7 +4,7 @@
 
 This course uses the C programming language exclusively. No C++ is allowed — no C++ headers, no classes, no C++ features. All code must compile as pure C.
 
-The development environment is STM32CubeIDE. The graphical code generation tool (CubeMX) is not used — all peripheral configuration is done manually by the student through direct register manipulation (bare-metal) or through HAL library calls when introduced later in the course.
+The development environment is VS Code with the STM32 extension pack. The graphical code generation tool (CubeMX) is not used — all peripheral configuration is done manually by the student through direct register manipulation (bare-metal) or through HAL library calls when introduced later in the course.
 
 ---
 
