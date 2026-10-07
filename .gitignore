@@ -58,6 +58,7 @@ dkms.conf
 # Build output
 Debug/
 Release/
+*.launch
 
 # IDE workspace metadata
 .metadata/
@@ -71,3 +72,6 @@ Release/
 *.hex
 *.map
 *.su
+
+# CMake build output
+build/
