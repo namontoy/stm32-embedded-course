@@ -71,3 +71,6 @@ Release/
 *.hex
 *.map
 *.su
+
+# CMake build output
+build/
